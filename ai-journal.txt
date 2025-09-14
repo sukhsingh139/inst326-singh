@@ -1,1 +1,6 @@
+AI Usage Journal
+Sukhman Singh
+INST326
 
+Week 1:
+This week I used Chatgpt to help me understand the logic in some simple programs as it has been a while since I have coded. Most of the code used in this week's exercises were pretty straight forward, but some required me to think them out a little bit. For example, exercise #15 that had to do with string slicing and the 'r.find' method which I had not used before. https://chatgpt.com/c/68c6059f-2e60-8329-b410-19cc1fb43709
