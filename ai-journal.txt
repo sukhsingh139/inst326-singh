@@ -12,3 +12,7 @@ Week 2
 This week I used Chatgpt to help me think through some code in week 2 lab exercises assignment.
 I was confused for some of the more involved exercises but got through them
 https://chatgpt.com/c/68c9cdf3-c3c4-8330-bb26-f9c76810f5a8
+
+Week 3
+This week I used Chatgpt to help me understand some code and logic.
+https://chatgpt.com/c/68d88e91-f0bc-8326-a5c9-302314db1551
