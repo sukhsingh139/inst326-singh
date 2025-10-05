@@ -16,3 +16,7 @@ https://chatgpt.com/c/68c9cdf3-c3c4-8330-bb26-f9c76810f5a8
 Week 3
 This week I used Chatgpt to help me understand some code and logic.
 https://chatgpt.com/c/68d88e91-f0bc-8326-a5c9-302314db1551
+
+Week 4
+This week I used Chatgpt to help me debug some glitchy code and help me understand logic behind some of the logic in the exercises.
+https://chatgpt.com/c/68e02712-21e4-832e-b4fb-327c0a826f73
