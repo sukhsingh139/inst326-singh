@@ -20,3 +20,7 @@ https://chatgpt.com/c/68d88e91-f0bc-8326-a5c9-302314db1551
 Week 4
 This week I used Chatgpt to help me debug some glitchy code and help me understand logic behind some of the logic in the exercises.
 https://chatgpt.com/c/68e02712-21e4-832e-b4fb-327c0a826f73
+
+Week 5
+Used Chatgpt to help with homework exercises and debugging. Also with the Function Library to help with getting ideas for functions and explain how it would all work together.
+https://chatgpt.com/c/68e71953-b614-8331-b7a3-14227bd150ce
