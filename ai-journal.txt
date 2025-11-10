@@ -32,3 +32,7 @@ https://chatgpt.com/c/68fadcbc-be70-8325-b804-a3d272402b42
 Week 7
 Used Chatgpt with lab exercises. This week was interesting in the `unittest` cases, which I have never seen before.
 https://chatgpt.com/c/69080087-3554-832e-82cf-a3f47888b40e
+
+Week 8
+Used Chatgpt with help on lab exercises and project 2. Had it explain some stuff like logic and code. The code is confusing this week but will be easier as I see it more.
+https://chatgpt.com/c/690e70b1-7c40-8328-bbdf-30c134c8b1df
