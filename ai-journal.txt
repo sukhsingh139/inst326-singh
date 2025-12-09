@@ -45,3 +45,6 @@ Week 10
 Used Chatgpt with help on lab exercises. Had it explain some stuff like logic and code.
 https://chatgpt.com/c/6923ced6-f888-8329-832a-8713e76571ed
 
+Week 11
+Used Chatgpt to draft a few emails and just small stuff like explaning some code functionality.
+https://chatgpt.com/c/68aca09a-241c-8330-9b01-07b2a9efb3aa
